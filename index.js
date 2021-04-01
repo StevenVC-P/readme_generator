@@ -33,7 +33,7 @@ const questions = [
         },
         {
         type: 'input',
-        message: 'Mention the your contributions here',
+        message: 'Mention your contributors here',
         name: 'contributing',
         },
         {
