@@ -1,7 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-
-// TODO: Create a function to create markdown for README
+//Creates a function to create markdown for README
 const createMarkdown = (data) =>
 `
 # ${data.title}
