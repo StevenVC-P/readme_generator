@@ -53,4 +53,4 @@ What a complete run of steps looks like.
 ![image](https://user-images.githubusercontent.com/77998885/113352120-7dd08500-9301-11eb-946c-8c251769c11f.png)
 
 ## Video WalkThrough
-<iframe src="https://drive.google.com/file/d/1TWTbTnO82E3YibY294JfubzAnk6wFR-u/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1TWTbTnO82E3YibY294JfubzAnk6wFR-u/view
