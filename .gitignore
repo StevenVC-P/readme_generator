@@ -1,0 +1,45 @@
+node_modules/
+.DS_Store/
+
+
+.prompt([
+        {
+        type: 'input',
+        message: 'What is your user title?',
+        name: 'title',
+        },
+        {
+        type: 'input',
+        message: 'Please describe your application',
+        name: 'description',
+        },
+        {
+        type: 'input',
+        message: 'What are the steps to install?',
+        name: 'installation',
+        },
+        {
+        type: 'input',
+        message: 'Please explain how to use the applicaiton',
+        name: 'usage',
+        },
+        {
+        type: 'input',
+        message: 'Please describe your license',
+        name: 'license',
+        },
+        {
+        type: 'input',
+        message: '',
+        name: 'usage',
+        },
+        {
+        type: 'input',
+        message: 'Please explain how to use the applicaiton',
+        name: 'usage',
+        },
+        {
+        type: 'input',
+        message: 'Please explain how to use the applicaiton',
+        name: 'usage',
+        },
