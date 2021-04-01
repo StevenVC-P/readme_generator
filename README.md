@@ -42,4 +42,9 @@ And if you have any questions you can e-mail me at:
 ## Pictures
 Examples of a completed readme preview:
 ![image](https://user-images.githubusercontent.com/77998885/113351062-f0406580-92ff-11eb-9e93-e5cf49e4b421.png)
+First steps for read me, use the selector to pick a license
+![image](https://user-images.githubusercontent.com/77998885/113351862-16b2d080-9301-11eb-882d-77b611fbfb18.png)
+What a complete run of steps looks like.
+![image](https://user-images.githubusercontent.com/77998885/113352120-7dd08500-9301-11eb-946c-8c251769c11f.png)
+
 
