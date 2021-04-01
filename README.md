@@ -14,6 +14,7 @@ Every good project deserves a good ReadMe, however the format never needs to cha
 * [Tests](#Tests)
 * [Questions](#Questions)
 * [Pictures](#Pictures)
+* [Video Walkthrough](#Video-Walkthrough)
 
 ## Installation
 1) Create a folder for the project. 2) From the github page, copy the link and use git clone to add the program. 3) Run npm init -y to create a default package.json file. 4) Install any dependencies: npm install --save inquirer fs 5) You can then run the file from command prompt with node index.js
@@ -51,4 +52,5 @@ What a complete run of steps looks like.
 
 ![image](https://user-images.githubusercontent.com/77998885/113352120-7dd08500-9301-11eb-946c-8c251769c11f.png)
 
-
+## Video WalkThrough
+<iframe src="https://drive.google.com/file/d/1TWTbTnO82E3YibY294JfubzAnk6wFR-u/preview" width="640" height="480"></iframe>
