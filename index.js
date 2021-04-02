@@ -84,7 +84,7 @@ function init() {
             response.badge = '[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)]';
             response.licenseURL = 'http://unlicense.org/';
         };
-        writeToFile('README.md', generateMarkdown.createMarkdown(response))
+        writeToFile('./readme_output/Readme.md', generateMarkdown.createMarkdown(response))
     });
 };
 
