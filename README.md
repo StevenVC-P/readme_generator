@@ -40,8 +40,6 @@ And if you have any questions you can e-mail me at:
 [steven.vancourt.coding@gmail.com](steven.vancourt.coding@gmail.com)
 
 ## Pictures
-Examples of a completed readme preview:
-![image](https://user-images.githubusercontent.com/77998885/113351062-f0406580-92ff-11eb-9e93-e5cf49e4b421.png)
 
 First steps for read me, use the selector to pick a license
 
